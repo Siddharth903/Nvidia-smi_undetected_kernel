@@ -1,5 +1,5 @@
 ## Nvidia-smi_undetected_kernel
-If you install CUDA and and NVIDIA drivers properly still problem persist watch the tutorial and understand the secure boot working with 3rd party packages.
+If you install CUDA and and NVIDIA drivers proprietary still problem persist watch the tutorial and understand the secure boot working with 3rd party packages.
 
 ## Reason It does'nt work with secure boot!
 1. Nvidia-smi only works with proprietary NVIDIA drivers, not the open kernel (nouveau-like) ones
