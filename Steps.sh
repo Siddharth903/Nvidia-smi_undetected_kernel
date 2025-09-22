@@ -69,9 +69,9 @@ sudo reboot
 
  5. Fix Secure Boot Issues (If Enabled)
 
-If your system uses aaSecure Bootaa, the NVIDIA kernel module won’t load unless signed.
+If your system uses a Secure Boot, theen NVIDIA kernel module won’t load unless signed.
 
-1. During installation, Ubuntu may prompt you to aaset a MOK passwordaa.
+1. During installation, Ubuntu may prompt you to set a MOK password.
 2. On reboot, enter BIOS screen → aaEnroll MOKaa → type the password you set.
 
 If not done, you may need to manually sign the module:
